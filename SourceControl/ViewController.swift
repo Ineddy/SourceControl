@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         btn3.backgroundColor = .blue
         btn3.layer.cornerRadius = 50
 
-        print("Bonjour!")
+        print("Bonjour! x4")
     }
 
 
