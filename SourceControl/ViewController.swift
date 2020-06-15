@@ -26,10 +26,12 @@ class ViewController: UIViewController {
         btn2.tintColor = .white
         btn2.backgroundColor = .green
         btn2.layer.cornerRadius = 50
+        btn2.layer.borderWidth = 2
 
         btn3.tintColor = .white
         btn3.backgroundColor = .blue
         btn3.layer.cornerRadius = 50
+        btn3.layer.borderWidth = 2
 
         print("Bonjour! x4")
     }
